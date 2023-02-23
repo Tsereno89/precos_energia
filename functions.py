@@ -1,5 +1,4 @@
-#Arquivo alterado no github
-#Alterado no vscode
+#Funcoes usados no processamento dos dados
 
 def prep_df(file):
 

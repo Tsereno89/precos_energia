@@ -1,4 +1,4 @@
-#Funcoes usados no processamento dos dados
+#Funcoes usadas no processamento dos dados
 
 def prep_df(file):
 
